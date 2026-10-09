@@ -10,6 +10,7 @@ A collection of Jupyter notebooks on statistics, machine learning and AI. Each o
 | [deep-learning](deep-learning/) | Gradient descent, MLPs, CNNs on CIFAR-10, an LSTM language model, and a pointer Transformer for the travelling salesman problem |
 | [probabilistic-ml](probabilistic-ml/) | Gaussian processes, Bayesian optimization of a real experiment, and a Bayesian network learned from survey data |
 | [computer-vision](computer-vision/) | Image processing fundamentals, a document scanner that reads handwritten digits, and YOLOv8 license plate detection |
+| [recommender-systems](recommender-systems/) | Collaborative filtering, matrix factorization, content-based and hybrid recommenders, and news recommendation with sentence embeddings |
 
 All notebooks are stored with their outputs, so they can be read directly on GitHub without running anything.
 

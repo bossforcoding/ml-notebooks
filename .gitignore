@@ -12,3 +12,4 @@ deep-learning/data/*.tar.gz
 computer-vision/data/MNIST
 computer-vision/data/license_plates
 computer-vision/runs/
+recommender-systems/data/MIND

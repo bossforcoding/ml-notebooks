@@ -9,6 +9,7 @@ scikit-image>=0.22
 scikit-learn>=1.5
 scipy>=1.13
 seaborn>=0.13
+sentence-transformers>=2.2
 statsmodels>=0.14
 torch>=2.2
 torchvision>=0.17
