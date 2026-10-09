@@ -6,6 +6,7 @@ A collection of Jupyter notebooks on statistics, machine learning and AI. Each o
 |---|---|
 | [regression-analysis](regression-analysis/) | Linear regression: diagnostics, transformations, multiple regression, multicollinearity, model selection, ridge and lasso |
 | [classification](classification/) | Logistic regression, class imbalance and ROC curves, decision trees and pruning, bootstrap, bagging and random forests |
+| [time-series](time-series/) | Trend and seasonality, stationarity, AR/ARMA/ARIMA models and forecast evaluation, spectral analysis with the FFT |
 
 More folders will follow.
 

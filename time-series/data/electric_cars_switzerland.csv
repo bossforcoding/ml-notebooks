@@ -1,0 +1,729 @@
+canton,year,electric_cars
+Zürich,1990,64
+Bern,1990,75
+Luzern,1990,12
+Uri,1990,0
+Schwyz,1990,1
+Obwalden,1990,1
+Nidwalden,1990,2
+Glarus,1990,2
+Zug,1990,5
+Fribourg,1990,0
+Solothurn,1990,11
+Basel-Stadt,1990,22
+Basel-Landschaft,1990,33
+Schaffhausen,1990,1
+Appenzell Ausserrhoden,1990,2
+Appenzell Innerrhoden,1990,0
+St. Gallen,1990,30
+Graubünden,1990,7
+Aargau,1990,23
+Thurgau,1990,8
+Ticino,1990,5
+Vaud,1990,7
+Valais,1990,83
+Neuchâtel,1990,1
+Genève,1990,6
+Jura,1990,4
+Zürich,1991,120
+Bern,1991,130
+Luzern,1991,21
+Uri,1991,0
+Schwyz,1991,5
+Obwalden,1991,1
+Nidwalden,1991,4
+Glarus,1991,8
+Zug,1991,7
+Fribourg,1991,4
+Solothurn,1991,17
+Basel-Stadt,1991,37
+Basel-Landschaft,1991,54
+Schaffhausen,1991,3
+Appenzell Ausserrhoden,1991,3
+Appenzell Innerrhoden,1991,0
+St. Gallen,1991,38
+Graubünden,1991,6
+Aargau,1991,55
+Thurgau,1991,16
+Ticino,1991,14
+Vaud,1991,11
+Valais,1991,97
+Neuchâtel,1991,2
+Genève,1991,11
+Jura,1991,3
+Zürich,1992,161
+Bern,1992,132
+Luzern,1992,25
+Uri,1992,0
+Schwyz,1992,7
+Obwalden,1992,1
+Nidwalden,1992,5
+Glarus,1992,10
+Zug,1992,4
+Fribourg,1992,3
+Solothurn,1992,19
+Basel-Stadt,1992,43
+Basel-Landschaft,1992,59
+Schaffhausen,1992,4
+Appenzell Ausserrhoden,1992,6
+Appenzell Innerrhoden,1992,0
+St. Gallen,1992,43
+Graubünden,1992,8
+Aargau,1992,65
+Thurgau,1992,25
+Ticino,1992,16
+Vaud,1992,8
+Valais,1992,105
+Neuchâtel,1992,2
+Genève,1992,13
+Jura,1992,3
+Zürich,1993,153
+Bern,1993,134
+Luzern,1993,24
+Uri,1993,0
+Schwyz,1993,8
+Obwalden,1993,0
+Nidwalden,1993,5
+Glarus,1993,8
+Zug,1993,8
+Fribourg,1993,1
+Solothurn,1993,19
+Basel-Stadt,1993,38
+Basel-Landschaft,1993,61
+Schaffhausen,1993,7
+Appenzell Ausserrhoden,1993,6
+Appenzell Innerrhoden,1993,0
+St. Gallen,1993,42
+Graubünden,1993,15
+Aargau,1993,63
+Thurgau,1993,25
+Ticino,1993,11
+Vaud,1993,14
+Valais,1993,110
+Neuchâtel,1993,2
+Genève,1993,15
+Jura,1993,1
+Zürich,1994,153
+Bern,1994,113
+Luzern,1994,23
+Uri,1994,0
+Schwyz,1994,9
+Obwalden,1994,2
+Nidwalden,1994,4
+Glarus,1994,9
+Zug,1994,10
+Fribourg,1994,2
+Solothurn,1994,24
+Basel-Stadt,1994,36
+Basel-Landschaft,1994,55
+Schaffhausen,1994,7
+Appenzell Ausserrhoden,1994,5
+Appenzell Innerrhoden,1994,0
+St. Gallen,1994,44
+Graubünden,1994,16
+Aargau,1994,53
+Thurgau,1994,30
+Ticino,1994,16
+Vaud,1994,18
+Valais,1994,121
+Neuchâtel,1994,3
+Genève,1994,17
+Jura,1994,1
+Zürich,1995,150
+Bern,1995,113
+Luzern,1995,20
+Uri,1995,0
+Schwyz,1995,10
+Obwalden,1995,1
+Nidwalden,1995,4
+Glarus,1995,9
+Zug,1995,8
+Fribourg,1995,2
+Solothurn,1995,27
+Basel-Stadt,1995,29
+Basel-Landschaft,1995,46
+Schaffhausen,1995,6
+Appenzell Ausserrhoden,1995,4
+Appenzell Innerrhoden,1995,0
+St. Gallen,1995,38
+Graubünden,1995,13
+Aargau,1995,59
+Thurgau,1995,35
+Ticino,1995,23
+Vaud,1995,15
+Valais,1995,132
+Neuchâtel,1995,3
+Genève,1995,20
+Jura,1995,0
+Zürich,1996,139
+Bern,1996,108
+Luzern,1996,21
+Uri,1996,0
+Schwyz,1996,11
+Obwalden,1996,1
+Nidwalden,1996,3
+Glarus,1996,7
+Zug,1996,6
+Fribourg,1996,1
+Solothurn,1996,28
+Basel-Stadt,1996,34
+Basel-Landschaft,1996,37
+Schaffhausen,1996,7
+Appenzell Ausserrhoden,1996,4
+Appenzell Innerrhoden,1996,0
+St. Gallen,1996,37
+Graubünden,1996,14
+Aargau,1996,45
+Thurgau,1996,30
+Ticino,1996,40
+Vaud,1996,16
+Valais,1996,147
+Neuchâtel,1996,2
+Genève,1996,17
+Jura,1996,0
+Zürich,1997,131
+Bern,1997,101
+Luzern,1997,18
+Uri,1997,0
+Schwyz,1997,11
+Obwalden,1997,1
+Nidwalden,1997,2
+Glarus,1997,6
+Zug,1997,7
+Fribourg,1997,2
+Solothurn,1997,25
+Basel-Stadt,1997,28
+Basel-Landschaft,1997,40
+Schaffhausen,1997,7
+Appenzell Ausserrhoden,1997,6
+Appenzell Innerrhoden,1997,0
+St. Gallen,1997,40
+Graubünden,1997,14
+Aargau,1997,33
+Thurgau,1997,29
+Ticino,1997,57
+Vaud,1997,14
+Valais,1997,154
+Neuchâtel,1997,1
+Genève,1997,20
+Jura,1997,1
+Zürich,1998,121
+Bern,1998,99
+Luzern,1998,14
+Uri,1998,0
+Schwyz,1998,12
+Obwalden,1998,1
+Nidwalden,1998,1
+Glarus,1998,5
+Zug,1998,5
+Fribourg,1998,3
+Solothurn,1998,22
+Basel-Stadt,1998,27
+Basel-Landschaft,1998,46
+Schaffhausen,1998,7
+Appenzell Ausserrhoden,1998,4
+Appenzell Innerrhoden,1998,0
+St. Gallen,1998,37
+Graubünden,1998,12
+Aargau,1998,35
+Thurgau,1998,22
+Ticino,1998,63
+Vaud,1998,17
+Valais,1998,166
+Neuchâtel,1998,2
+Genève,1998,22
+Jura,1998,0
+Zürich,1999,106
+Bern,1999,89
+Luzern,1999,12
+Uri,1999,0
+Schwyz,1999,9
+Obwalden,1999,0
+Nidwalden,1999,1
+Glarus,1999,5
+Zug,1999,4
+Fribourg,1999,3
+Solothurn,1999,18
+Basel-Stadt,1999,26
+Basel-Landschaft,1999,43
+Schaffhausen,1999,6
+Appenzell Ausserrhoden,1999,3
+Appenzell Innerrhoden,1999,0
+St. Gallen,1999,35
+Graubünden,1999,13
+Aargau,1999,24
+Thurgau,1999,20
+Ticino,1999,69
+Vaud,1999,13
+Valais,1999,199
+Neuchâtel,1999,0
+Genève,1999,24
+Jura,1999,0
+Zürich,2000,96
+Bern,2000,80
+Luzern,2000,12
+Uri,2000,1
+Schwyz,2000,7
+Obwalden,2000,0
+Nidwalden,2000,1
+Glarus,2000,4
+Zug,2000,3
+Fribourg,2000,4
+Solothurn,2000,14
+Basel-Stadt,2000,26
+Basel-Landschaft,2000,38
+Schaffhausen,2000,5
+Appenzell Ausserrhoden,2000,2
+Appenzell Innerrhoden,2000,0
+St. Gallen,2000,36
+Graubünden,2000,10
+Aargau,2000,27
+Thurgau,2000,16
+Ticino,2000,129
+Vaud,2000,15
+Valais,2000,205
+Neuchâtel,2000,0
+Genève,2000,22
+Jura,2000,0
+Zürich,2001,81
+Bern,2001,73
+Luzern,2001,13
+Uri,2001,1
+Schwyz,2001,6
+Obwalden,2001,0
+Nidwalden,2001,1
+Glarus,2001,5
+Zug,2001,2
+Fribourg,2001,4
+Solothurn,2001,13
+Basel-Stadt,2001,28
+Basel-Landschaft,2001,31
+Schaffhausen,2001,5
+Appenzell Ausserrhoden,2001,2
+Appenzell Innerrhoden,2001,0
+St. Gallen,2001,27
+Graubünden,2001,9
+Aargau,2001,28
+Thurgau,2001,13
+Ticino,2001,133
+Vaud,2001,16
+Valais,2001,174
+Neuchâtel,2001,1
+Genève,2001,20
+Jura,2001,1
+Zürich,2002,58
+Bern,2002,82
+Luzern,2002,9
+Uri,2002,1
+Schwyz,2002,6
+Obwalden,2002,0
+Nidwalden,2002,0
+Glarus,2002,3
+Zug,2002,1
+Fribourg,2002,1
+Solothurn,2002,12
+Basel-Stadt,2002,23
+Basel-Landschaft,2002,29
+Schaffhausen,2002,4
+Appenzell Ausserrhoden,2002,1
+Appenzell Innerrhoden,2002,0
+St. Gallen,2002,22
+Graubünden,2002,7
+Aargau,2002,25
+Thurgau,2002,9
+Ticino,2002,164
+Vaud,2002,12
+Valais,2002,182
+Neuchâtel,2002,1
+Genève,2002,20
+Jura,2002,1
+Zürich,2003,57
+Bern,2003,62
+Luzern,2003,8
+Uri,2003,1
+Schwyz,2003,5
+Obwalden,2003,0
+Nidwalden,2003,0
+Glarus,2003,3
+Zug,2003,1
+Fribourg,2003,3
+Solothurn,2003,12
+Basel-Stadt,2003,19
+Basel-Landschaft,2003,29
+Schaffhausen,2003,3
+Appenzell Ausserrhoden,2003,1
+Appenzell Innerrhoden,2003,0
+St. Gallen,2003,23
+Graubünden,2003,6
+Aargau,2003,20
+Thurgau,2003,9
+Ticino,2003,173
+Vaud,2003,11
+Valais,2003,182
+Neuchâtel,2003,1
+Genève,2003,20
+Jura,2003,1
+Zürich,2004,53
+Bern,2004,58
+Luzern,2004,5
+Uri,2004,1
+Schwyz,2004,4
+Obwalden,2004,0
+Nidwalden,2004,0
+Glarus,2004,2
+Zug,2004,1
+Fribourg,2004,3
+Solothurn,2004,11
+Basel-Stadt,2004,17
+Basel-Landschaft,2004,30
+Schaffhausen,2004,3
+Appenzell Ausserrhoden,2004,2
+Appenzell Innerrhoden,2004,0
+St. Gallen,2004,21
+Graubünden,2004,3
+Aargau,2004,15
+Thurgau,2004,9
+Ticino,2004,167
+Vaud,2004,11
+Valais,2004,185
+Neuchâtel,2004,4
+Genève,2004,19
+Jura,2004,1
+Zürich,2005,50
+Bern,2005,45
+Luzern,2005,3
+Uri,2005,1
+Schwyz,2005,4
+Obwalden,2005,0
+Nidwalden,2005,0
+Glarus,2005,2
+Zug,2005,1
+Fribourg,2005,4
+Solothurn,2005,11
+Basel-Stadt,2005,14
+Basel-Landschaft,2005,24
+Schaffhausen,2005,2
+Appenzell Ausserrhoden,2005,3
+Appenzell Innerrhoden,2005,0
+St. Gallen,2005,18
+Graubünden,2005,3
+Aargau,2005,11
+Thurgau,2005,9
+Ticino,2005,162
+Vaud,2005,13
+Valais,2005,189
+Neuchâtel,2005,4
+Genève,2005,18
+Jura,2005,1
+Zürich,2006,42
+Bern,2006,45
+Luzern,2006,2
+Uri,2006,1
+Schwyz,2006,3
+Obwalden,2006,0
+Nidwalden,2006,0
+Glarus,2006,1
+Zug,2006,0
+Fribourg,2006,6
+Solothurn,2006,9
+Basel-Stadt,2006,10
+Basel-Landschaft,2006,23
+Schaffhausen,2006,1
+Appenzell Ausserrhoden,2006,0
+Appenzell Innerrhoden,2006,0
+St. Gallen,2006,18
+Graubünden,2006,3
+Aargau,2006,11
+Thurgau,2006,9
+Ticino,2006,146
+Vaud,2006,10
+Valais,2006,198
+Neuchâtel,2006,5
+Genève,2006,17
+Jura,2006,2
+Zürich,2007,37
+Bern,2007,42
+Luzern,2007,3
+Uri,2007,1
+Schwyz,2007,1
+Obwalden,2007,0
+Nidwalden,2007,0
+Glarus,2007,1
+Zug,2007,0
+Fribourg,2007,5
+Solothurn,2007,9
+Basel-Stadt,2007,10
+Basel-Landschaft,2007,24
+Schaffhausen,2007,2
+Appenzell Ausserrhoden,2007,2
+Appenzell Innerrhoden,2007,0
+St. Gallen,2007,15
+Graubünden,2007,2
+Aargau,2007,9
+Thurgau,2007,7
+Ticino,2007,133
+Vaud,2007,10
+Valais,2007,195
+Neuchâtel,2007,4
+Genève,2007,15
+Jura,2007,1
+Zürich,2008,32
+Bern,2008,42
+Luzern,2008,5
+Uri,2008,1
+Schwyz,2008,0
+Obwalden,2008,0
+Nidwalden,2008,0
+Glarus,2008,1
+Zug,2008,2
+Fribourg,2008,7
+Solothurn,2008,9
+Basel-Stadt,2008,10
+Basel-Landschaft,2008,23
+Schaffhausen,2008,2
+Appenzell Ausserrhoden,2008,2
+Appenzell Innerrhoden,2008,0
+St. Gallen,2008,13
+Graubünden,2008,3
+Aargau,2008,9
+Thurgau,2008,8
+Ticino,2008,123
+Vaud,2008,10
+Valais,2008,189
+Neuchâtel,2008,5
+Genève,2008,21
+Jura,2008,0
+Zürich,2009,42
+Bern,2009,42
+Luzern,2009,3
+Uri,2009,1
+Schwyz,2009,2
+Obwalden,2009,0
+Nidwalden,2009,0
+Glarus,2009,1
+Zug,2009,4
+Fribourg,2009,8
+Solothurn,2009,9
+Basel-Stadt,2009,8
+Basel-Landschaft,2009,24
+Schaffhausen,2009,2
+Appenzell Ausserrhoden,2009,1
+Appenzell Innerrhoden,2009,0
+St. Gallen,2009,7
+Graubünden,2009,3
+Aargau,2009,9
+Thurgau,2009,8
+Ticino,2009,122
+Vaud,2009,7
+Valais,2009,189
+Neuchâtel,2009,4
+Genève,2009,16
+Jura,2009,0
+Zürich,2010,150
+Bern,2010,46
+Luzern,2010,10
+Uri,2010,1
+Schwyz,2010,7
+Obwalden,2010,1
+Nidwalden,2010,0
+Glarus,2010,0
+Zug,2010,10
+Fribourg,2010,9
+Solothurn,2010,11
+Basel-Stadt,2010,8
+Basel-Landschaft,2010,26
+Schaffhausen,2010,2
+Appenzell Ausserrhoden,2010,2
+Appenzell Innerrhoden,2010,0
+St. Gallen,2010,11
+Graubünden,2010,3
+Aargau,2010,19
+Thurgau,2010,7
+Ticino,2010,112
+Vaud,2010,12
+Valais,2010,198
+Neuchâtel,2010,2
+Genève,2010,18
+Jura,2010,0
+Zürich,2011,211
+Bern,2011,108
+Luzern,2011,38
+Uri,2011,2
+Schwyz,2011,15
+Obwalden,2011,1
+Nidwalden,2011,0
+Glarus,2011,1
+Zug,2011,65
+Fribourg,2011,12
+Solothurn,2011,19
+Basel-Stadt,2011,18
+Basel-Landschaft,2011,31
+Schaffhausen,2011,6
+Appenzell Ausserrhoden,2011,2
+Appenzell Innerrhoden,2011,0
+St. Gallen,2011,30
+Graubünden,2011,12
+Aargau,2011,47
+Thurgau,2011,12
+Ticino,2011,120
+Vaud,2011,38
+Valais,2011,217
+Neuchâtel,2011,7
+Genève,2011,31
+Jura,2011,1
+Zürich,2012,428
+Bern,2012,177
+Luzern,2012,79
+Uri,2012,4
+Schwyz,2012,37
+Obwalden,2012,3
+Nidwalden,2012,4
+Glarus,2012,5
+Zug,2012,54
+Fribourg,2012,34
+Solothurn,2012,31
+Basel-Stadt,2012,24
+Basel-Landschaft,2012,49
+Schaffhausen,2012,16
+Appenzell Ausserrhoden,2012,9
+Appenzell Innerrhoden,2012,1
+St. Gallen,2012,66
+Graubünden,2012,24
+Aargau,2012,104
+Thurgau,2012,48
+Ticino,2012,141
+Vaud,2012,91
+Valais,2012,241
+Neuchâtel,2012,18
+Genève,2012,53
+Jura,2012,17
+Zürich,2013,737
+Bern,2013,269
+Luzern,2013,118
+Uri,2013,5
+Schwyz,2013,54
+Obwalden,2013,8
+Nidwalden,2013,7
+Glarus,2013,9
+Zug,2013,45
+Fribourg,2013,70
+Solothurn,2013,52
+Basel-Stadt,2013,42
+Basel-Landschaft,2013,78
+Schaffhausen,2013,26
+Appenzell Ausserrhoden,2013,18
+Appenzell Innerrhoden,2013,6
+St. Gallen,2013,113
+Graubünden,2013,40
+Aargau,2013,167
+Thurgau,2013,94
+Ticino,2013,166
+Vaud,2013,146
+Valais,2013,268
+Neuchâtel,2013,21
+Genève,2013,85
+Jura,2013,39
+Zürich,2014,1201
+Bern,2014,428
+Luzern,2014,196
+Uri,2014,10
+Schwyz,2014,112
+Obwalden,2014,23
+Nidwalden,2014,22
+Glarus,2014,18
+Zug,2014,101
+Fribourg,2014,122
+Solothurn,2014,114
+Basel-Stadt,2014,61
+Basel-Landschaft,2014,133
+Schaffhausen,2014,49
+Appenzell Ausserrhoden,2014,31
+Appenzell Innerrhoden,2014,10
+St. Gallen,2014,201
+Graubünden,2014,79
+Aargau,2014,328
+Thurgau,2014,155
+Ticino,2014,247
+Vaud,2014,250
+Valais,2014,311
+Neuchâtel,2014,43
+Genève,2014,144
+Jura,2014,50
+Zürich,2015,2201
+Bern,2015,682
+Luzern,2015,350
+Uri,2015,12
+Schwyz,2015,195
+Obwalden,2015,36
+Nidwalden,2015,37
+Glarus,2015,35
+Zug,2015,178
+Fribourg,2015,209
+Solothurn,2015,197
+Basel-Stadt,2015,86
+Basel-Landschaft,2015,235
+Schaffhausen,2015,65
+Appenzell Ausserrhoden,2015,47
+Appenzell Innerrhoden,2015,19
+St. Gallen,2015,366
+Graubünden,2015,143
+Aargau,2015,583
+Thurgau,2015,271
+Ticino,2015,366
+Vaud,2015,411
+Valais,2015,405
+Neuchâtel,2015,80
+Genève,2015,266
+Jura,2015,56
+Zürich,2016,2855
+Bern,2016,971
+Luzern,2016,530
+Uri,2016,22
+Schwyz,2016,292
+Obwalden,2016,52
+Nidwalden,2016,59
+Glarus,2016,44
+Zug,2016,288
+Fribourg,2016,295
+Solothurn,2016,279
+Basel-Stadt,2016,134
+Basel-Landschaft,2016,376
+Schaffhausen,2016,95
+Appenzell Ausserrhoden,2016,77
+Appenzell Innerrhoden,2016,31
+St. Gallen,2016,568
+Graubünden,2016,225
+Aargau,2016,897
+Thurgau,2016,391
+Ticino,2016,480
+Vaud,2016,664
+Valais,2016,518
+Neuchâtel,2016,119
+Genève,2016,397
+Jura,2016,65
+Zürich,2017,3743
+Bern,2017,1343
+Luzern,2017,719
+Uri,2017,29
+Schwyz,2017,387
+Obwalden,2017,73
+Nidwalden,2017,87
+Glarus,2017,52
+Zug,2017,411
+Fribourg,2017,399
+Solothurn,2017,404
+Basel-Stadt,2017,177
+Basel-Landschaft,2017,486
+Schaffhausen,2017,130
+Appenzell Ausserrhoden,2017,114
+Appenzell Innerrhoden,2017,48
+St. Gallen,2017,784
+Graubünden,2017,317
+Aargau,2017,1215
+Thurgau,2017,551
+Ticino,2017,594
+Vaud,2017,995
+Valais,2017,678
+Neuchâtel,2017,156
+Genève,2017,560
+Jura,2017,87
