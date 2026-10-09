@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 .env
 .DS_Store
+
+# Datasets downloaded at runtime
+deep-learning/data/MNIST/
+deep-learning/data/cifar-10-batches-py/
+deep-learning/data/*.tar.gz
