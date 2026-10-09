@@ -1,12 +1,15 @@
 datasets>=2.20
 jupyter
+kagglehub
 matplotlib>=3.8
 networkx>=3.2
 numpy>=1.26
 pandas>=2.2
+scikit-image>=0.22
 scikit-learn>=1.5
 scipy>=1.13
 seaborn>=0.13
 statsmodels>=0.14
 torch>=2.2
 torchvision>=0.17
+ultralytics>=8.3
