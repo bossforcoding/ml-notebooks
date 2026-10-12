@@ -9,6 +9,7 @@ Linear regression from first principles to model selection, worked through on sm
 | [03 · Multiple regression](03_multiple_regression.ipynb) | correlated predictors, leverage vs influence, hidden groups of outliers and robust regression, dummy variables and interactions, partial F-tests | catheter length, savings rates across countries, synthetic data, lathe surface finish, farm revenue |
 | [04 · Multicollinearity and model selection](04_multicollinearity_model_selection.ipynb) | variance inflation factors, dropping vs combining variables, stepwise selection with AIC/BIC | fitness and oxygen uptake, hospital length of stay, fund of hedge funds |
 | [05 · Subset selection, ridge and lasso](05_subset_selection_ridge_lasso.ipynb) | exhaustive best subset search, ridge and lasso with cross-validation, when regularization pays off, permutation importance | US college applications |
+| [06 · Case study: medical insurance costs](06_insurance_costs.ipynb) | a full analysis from exploration to prediction, interactions found through residual diagnostics, partial F-tests vs test error, comparison with ridge, lasso and a random forest, median regression for cost bands | medical insurance charges of 1,337 US beneficiaries |
 
 ## Highlights
 
@@ -16,6 +17,8 @@ Linear regression from first principles to model selection, worked through on sm
 - **Recovering a hidden portfolio** (notebook 04): stepwise selection on hedge fund strategy returns identifies the five strategies a fund of funds invests in, with weights and fees that make financial sense.
 - **When regularization helps** (notebook 05): with the full dataset least squares, ridge and lasso perform alike; with 25–40 training samples the lasso cuts the test error by about 30%.
 - **A predictor that makes the model useless** (notebook 05): the most important feature is only known after the event being predicted.
+- **One interaction, 35% less error** (notebook 06): the residuals of an additive model split smokers into two groups; a smoker × obesity term explains them, and the resulting 8-term linear model beats a random forest.
+- **The right loss for the question** (notebook 06): least squares overestimates typical costs because of a minority of very expensive people; fitting the median instead raises the accuracy on cost bands from 74% to 92%.
 
 ## Code
 
